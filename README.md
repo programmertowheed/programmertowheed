@@ -27,8 +27,8 @@ I'm a Full Stack Web Application Developer from <img src="assets/bangladesh.png"
 #### Here are a few technologies I’ve been working with recently:
 
 [![PHP Badge](https://img.shields.io/badge/PHP-000000?style=for-the-badge&logo=php)](#)
-[![Laravel Badge](https://img.shields.io/badge/Laravel-f9322c?style=for-the-badge&logo=laravel&logoColor=f9322c)](#)
-[![Livewire Badge](https://img.shields.io/badge/Livewire-EE5D99?style=for-the-badge&logo=Livewire&logoColor=EE5D99)](#)
+[![Laravel Badge](https://img.shields.io/badge/Laravel-f9322c?style=for-the-badge&logo=laravel&logoColor=f9322c&labelColor=black)](#)
+[![Livewire Badge](https://img.shields.io/badge/Livewire-EE5D99?style=for-the-badge&logo=Livewire&logoColor=EE5D99&labelColor=black)](#)
 [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#)
 [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#)
 [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)
