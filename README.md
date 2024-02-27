@@ -29,7 +29,7 @@ I'm a Full Stack Web Application Developer from <img src="assets/bangladesh.png"
 [![PHP Badge](https://img.shields.io/badge/PHP-000000?style=for-the-badge&logo=php)](#)
 [![Laravel Badge](https://img.shields.io/badge/Laravel-f9322c?style=for-the-badge&logo=laravel&logoColor=f9322c&labelColor=black)](#)
 [![Livewire Badge](https://img.shields.io/badge/Livewire-EE5D99?style=for-the-badge&logo=Livewire&logoColor=EE5D99&labelColor=black)](#)
-[![Vue Badge](https://img.shields.io/badge/Vue-42d392?style=for-the-badge&logo=Vue&logoColor=42d392&labelColor=black)](#)
+[![Vue Badge](https://img.shields.io/badge/Vue.js-42d392?style=for-the-badge&logo=vuedotjs&logoColor=42d392&labelColor=black)](#)
 [![Inertia Badge](https://img.shields.io/badge/Inertia-4299e180?style=for-the-badge&logo=Inertia&logoColor=4299e180&labelColor=black)](#)
 [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#)
 [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#)
@@ -39,6 +39,7 @@ I'm a Full Stack Web Application Developer from <img src="assets/bangladesh.png"
 [![Express.js Badge](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)](#)
 [![MongoDB Badge](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)](#)
 [![Tailwind Badge](https://img.shields.io/badge/Tailwind%20CSS-092749?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4&labelColor=000000)](#)
+[![PhpStorm Badge](https://img.shields.io/badge/PhpStorm-000000?style=for-the-badge&logo=PhpStorm&logoColor=white)](#)
 [![VSCode Badge](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)](#)
 [![Git Badge](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](#)
 
