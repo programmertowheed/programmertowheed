@@ -14,7 +14,7 @@ I'm a Full Stack Web Application Developer from <img src="assets/bangladesh.png"
 [![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:programmertowheed@gmail.com)
 
 :hearts: &emsp;I enjoy programming. <br/>
-:computer: &emsp;Most used line of code `echo "hello"` <br/>
+:computer: &emsp;Most used line of code `echo "hello";` <br/>
 🖥️ &emsp;See my portfolio at [My Website](http://programmertowheed.com/)<br/>
 ✉️ &emsp;You can contact me at [programmertowheed@gmail.com](mailto:programmertowheed@gmail.com)
 
