@@ -2,7 +2,7 @@
 
 ## Hi <img src="assets/hello.gif" width="28px" alt="hi"> My name is Towheed
 
-I'm Towheed, a Full Stack Web Application Developer from <img src="assets/bangladesh.png" width="18"/> Bangladesh and Content Creator on [Youtube](https://www.youtube.com/@programmertowheed). I build accessible, inclusive products and digital experiences for the web.
+I'm a Full Stack Web Application Developer from <img src="assets/bangladesh.png" width="18"/> Bangladesh and Content Creator on [Youtube](https://www.youtube.com/@programmertowheed). I build accessible, inclusive products and digital experiences for the web.
 
 :coffee: &emsp;Connect with me!
 
@@ -14,8 +14,8 @@ I'm Towheed, a Full Stack Web Application Developer from <img src="assets/bangla
 [![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:programmertowheed@gmail.com)
 
 :hearts: &emsp;I enjoy programming <br/>
-:computer: &emsp;Most used line of code `console.log("hello world");\n echo "hello world";\n exit();` <br/>
-🖥️ See my portfolio at [My Website](http://programmertowheed.com/)
+:computer: &emsp;Most used line of code `console.log("hello world")` <br/>
+🖥️ See my portfolio at [My Website](http://programmertowheed.com/)<br/>
 ✉️ You can contact me at [programmertowheed@gmail.com](mailto:programmertowheed@gmail.com)
 
 ### Skills
