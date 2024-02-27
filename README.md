@@ -36,7 +36,7 @@ I'm a Full Stack Web Application Developer from <img src="assets/bangladesh.png"
   <tbody>
     <tr>
       <td><a href="https://project.programmertowheed.com/erms" target="_blank">Automatic Exam Routine Generator</a></td>
-      <td>Automatic exam routine, seating arrangement, teacher duty schedule generator.</td>
+      <td>Automatic exam routine, seating arrangement, teacher duty schedule generator with Laravel and MySQL.</td>
     </tr>
     <tr>
       <td><a href="https://project.programmertowheed.com/school" target="_blank">E-Learning Management System</a></td>
