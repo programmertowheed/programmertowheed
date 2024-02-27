@@ -136,7 +136,7 @@ I'm a Full Stack Web Application Developer from <img src="assets/bangladesh.png"
 <br >
 <b>GitHub Stats</b>
 
-<a href="http://www.github.com/programmertowheed"><img src="https://github-readme-stats.vercel.app/api?username=programmertowheed&show_icons=true&hide=&count_private=true&title_color=6366f1&text_color=10b981&icon_color=facc15&bg_color=0f172a&hide_border=true&show_icons=true" alt="programmertowheed's GitHub stats" /></a>
+<a href="http://www.github.com/programmertowheed"><img src="https://github-readme-stats.vercel.app/api?username=programmertowheed&show_icons=true&hide=prs,contribs&title_color=6366f1&text_color=10b981&icon_color=facc15&bg_color=0f172a&hide_border=true&show_icons=true" alt="programmertowheed's GitHub stats" /></a>
 
 <br >
 <b>Commit Streak</b>
