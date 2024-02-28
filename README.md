@@ -93,7 +93,7 @@ I'm a Full Stack Web Application Developer from <img src="assets/bangladesh.png"
     </tr>
     <tr>
       <td><a href="https://project.programmertowheed.com/livewire-todo" target="_blank">Todo application with Livewire</a></td>
-      <td>Todo application with Livewire</td>
+      <td>Todo application with Livewire.</td>
     </tr>
     <tr>
       <td><a href="https://alliedgroupbd.com/" target="_blank">Allied Group BD</a></td>
@@ -109,19 +109,19 @@ I'm a Full Stack Web Application Developer from <img src="assets/bangladesh.png"
     </tr>
     <tr>
       <td><a href="https://sdsgloballtd.com/" target="_blank">SDS Global Ltd</a></td>
-      <td>SDS Global Limited – a recognized MEP service provider in Bangladesh</td>
+      <td>SDS Global Limited – a recognized MEP service provider in Bangladesh.</td>
     </tr>
     <tr>
       <td><a href="https://sdsglobalfze.com/" target="_blank">SDS Global FZE</a></td>
-      <td>SDS Global FZE is a general trading company specialized in the global market</td>
+      <td>SDS Global FZE is a general trading company specialized in the global market.</td>
     </tr>
     <tr>
       <td><a href="https://newagefoundations.com/" target="_blank">New Age Foundations</a></td>
-      <td>New age foundations is a medical business solutions</td>
+      <td>New age foundations is a medical business solutions.</td>
     </tr>
     <tr>
       <td><a href="https://gorhaminvestments.com/" target="_blank">Gorham Investments</a></td>
-      <td>GORHAM INVESTMENTS INC, is a private funding management company</td>
+      <td>GORHAM INVESTMENTS INC, is a private funding management company.</td>
     </tr>
   </tbody>
 </table>
