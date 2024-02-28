@@ -58,9 +58,9 @@ I'm a Full Stack Web Application Developer from <img src="assets/bangladesh.png"
 [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#)
 [![Express.js Badge](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)](#)
 [![MongoDB Badge](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)](#)
-[![MySQL Badge](https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=white)](#)
+[![MySQL Badge](https://img.shields.io/badge/MySQL-3E6E93?style=for-the-badge&logo=mysql&logoColor=3E6E93&labelColor=000000)](#)
 [![Tailwind Badge](https://img.shields.io/badge/Tailwind%20CSS-092749?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4&labelColor=000000)](#)
-[![Bootstrap Badge](https://img.shields.io/badge/Bootstrap-7411f6?style=for-the-badge&logo=bootstrap&logoColor=7411f6)](#)
+[![Bootstrap Badge](https://img.shields.io/badge/Bootstrap-7411f6?style=for-the-badge&logo=bootstrap&logoColor=7411f6&labelColor=000000)](#)
 [![Git Badge](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](#)
 
 ### My Projects
