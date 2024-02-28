@@ -52,6 +52,7 @@ I'm a Full Stack Web Application Developer from <img src="assets/bangladesh.png"
 [![Vue Badge](https://img.shields.io/badge/Vue.js-42d392?style=for-the-badge&logo=vuedotjs&logoColor=42d392&labelColor=black)](#)
 [![Inertia Badge](https://img.shields.io/badge/Inertia-4299e180?style=for-the-badge&logo=Inertia&logoColor=4299e180&labelColor=black)](#)
 [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#)
+[![JQuery Badge](https://img.shields.io/badge/-Typescript-0769ad?style=for-the-badge&labelColor=black&logo=jquery&logoColor=0769ad)](#)
 [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#)
 [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)
 [![Next.js Badge](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)](#)
