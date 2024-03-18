@@ -84,7 +84,7 @@ I'm a Full Stack Web Application Developer from <img src="assets/bangladesh.png"
       <td>School, College, and University e-learning web application.</td>
     </tr>
     <tr>
-      <td><a href="https://project.programmertowheed.com/scb.gov.bd/" target="_blank">Savar Cantonment Board</a></td>
+      <td><a href="https://scb-bd.com/" target="_blank">Savar Cantonment Board</a></td>
       <td>Savar Cantonment Board website clone with Laravel and MySQL.</td>
     </tr>
     <tr>
